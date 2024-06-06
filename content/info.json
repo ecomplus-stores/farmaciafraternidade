@@ -10,11 +10,13 @@
     "title": "Parcele suas compras!"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "e Ganhe Cash Back!",
+    "title": "Compre ou Manipule conosco!"
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "Ganhe 3% de Desconto!",
+    "title": "Desconto no PIX!"
   }
 }
