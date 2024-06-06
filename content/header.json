@@ -8,9 +8,9 @@
       "/auxilia-na?Auxilia na"
     ],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
-  "menu_all_departments": true,
+  "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
