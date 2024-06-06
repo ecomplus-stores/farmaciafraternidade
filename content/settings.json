@@ -1,26 +1,26 @@
 {
   "domain": "farmaciafraternidade.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#0b6b1a",
   "theme": {
-    "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "bootswatch": "sketchy",
+    "custom": "niche-game"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#130202",
   "repository": "ecomplus-stores/farmaciafraternidade",
   "logo": "/img/uploads/logoprincipalpc-2023.png",
   "name": "farmaciafraternidade",
-  "short_name": "farmaciafraternidade",
+  "short_name": "Loja Virtual Farmacia Fraternidade",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "font_family": "Lato",
+  "favicon": "/img/uploads/original.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#0d0c0c",
+  "icon": "/img/uploads/cuba.png",
   "store_id": 51536,
-  "description": "farmaciafraternidade",
-  "large_icon": "/img/large-icon.png"
+  "description": "Farmácia de Manipulação de fórmulas em cápsulas, cosméticos, homeopatia e florais. Loja de Produtos Naturais trabalhando com Mel, Própolis, Geleia Real, Cosméticos Naturais, Homeopatia e Florais, Aromaterapia (Óleos Essenciais e Essências, Aromatizadores Elétricos, Pessoais e Ultrassônicos), Argilas, Suplementos Alimentares e Esportivos, Chás, Colágenos, Emagrecedores e muito mais...",
+  "large_icon": "/img/uploads/logoprincipalpc-2023.png"
 }
