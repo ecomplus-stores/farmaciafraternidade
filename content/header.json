@@ -12,6 +12,7 @@
     "background": "#0e0101"
   },
   "alphabetical_order_submenu": false,
+  "popup": "/img/uploads/popup1.png",
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
