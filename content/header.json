@@ -1,10 +1,16 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/produtos?Produtos",
+      "/cosmeticos?Cosméticos",
+      "/bem-estar?Bem-Estar",
+      "/aromaterapia?Aromaterapia",
+      "/auxilia-na?Auxilia na"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "menu_all_departments": false,
+  "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
@@ -13,7 +19,7 @@
   },
   "alphabetical_order_submenu": false,
   "popup": "/img/uploads/popup1.png",
-  "name_all_departments": "",
+  "name_all_departments": "Todas Categorias",
   "search_input": true,
   "desktop_megamenu": false,
   "full_width_submenu": false,
