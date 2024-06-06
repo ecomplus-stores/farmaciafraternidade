@@ -20,7 +20,7 @@
   "alphabetical_order_submenu": false,
   "popup": "/img/uploads/popup1.png",
   "name_all_departments": "Todas Categorias",
-  "search_input": true,
+  "search_input": false,
   "desktop_megamenu": false,
   "full_width_submenu": false,
   "contacts_stripe": {
