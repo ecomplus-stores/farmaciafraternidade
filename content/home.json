@@ -42,10 +42,6 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
