@@ -21,7 +21,7 @@
   "popup": "/img/uploads/popup1.png",
   "name_all_departments": "Todas Categorias",
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [],
