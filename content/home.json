@@ -5,17 +5,12 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/001-39-anos.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/002-bem-vindo.png"
+          "img": "/img/uploads/granolalowcarbhome.webp"
         }
       ]
     },
