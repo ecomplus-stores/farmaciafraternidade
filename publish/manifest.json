@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3f5a306646d53408315674a80bc50e9e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.ba2ab41c8f6b9ce6017af5f71c3fd8c3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.751d135fa336b8b5891d2084082d7e28.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d6d61a32ca99eef065a945b7f726466d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.e73ec0835d145ccace5e7c97e0b6e372.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "farmaciafraternidade",
+  "short_name": "Loja Virtual Farmacia Fraternidade",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Farmácia de Manipulação de fórmulas em cápsulas, cosméticos, homeopatia e florais. Loja de Produtos Naturais trabalhando com Mel, Própolis, Geleia Real, Cosméticos Naturais, Homeopatia e Florais, Aromaterapia (Óleos Essenciais e Essências, Aromatizadores Elétricos, Pessoais e Ultrassônicos), Argilas, Suplementos Alimentares e Esportivos, Chás, Colágenos, Emagrecedores e muito mais...",
+  "background_color": "#130202",
+  "theme_color": "#0b6b1a"
+}
